@@ -1,2 +1,3 @@
 # cse210-tc03
-Tutorial Git for CSE210 assignment
+David Raya 
+I am from Mexico and like to program!
